@@ -1,0 +1,197 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav_menu {
+    display: flex;
+    justify-content: space-between;
+    height: 3cm;
+    font-family: tahoma;
+}
+.nav_menu li {
+    list-style: none;
+}
+.div_menu {
+    display: flex;
+    gap: 0.6cm;
+    margin-top: 0.2cm;
+    margin-right: 2cm;
+}
+.div_menu li {
+    padding-top: 9px;
+}
+.div_menu2 {
+    display: flex;
+    gap: 1cm;
+}
+.div_menu2 button {
+    height: 1.1cm;
+    width: 3cm;
+    background-color: #FFBC0D;
+    border: 0;
+    border-radius: 0.1cm;
+    font-size: 0.4cm;
+    cursor: pointer;
+}
+.div_menu2 button :hover {
+    background-color:#e4d320 ;
+}
+.div_menu2 li {
+    padding-top: 9px;
+}
+.div_menu1 {
+    display: flex;
+    gap: 1cm;
+    margin-top: 1cm;
+}
+.div_menu1 a {
+    text-decoration: none;
+    color: black;
+}
+.div_menu1 a:hover {
+    text-decoration: underline;
+}
+.sect_menu {
+    display: flex;
+    justify-content: space-between;
+    margin: 1cm 0.5cm;
+}
+.sect_menu div {
+    width: 50%;
+}
+.sect_menu1 {
+    margin-left: 5cm;
+    margin-top: 2.5cm;
+}
+.sect_menu1 H1 {
+    font-family: tahoma;
+    font-size: 0.8cm;
+    margin: 0.4cm 0cm;
+}
+.sect_menu1 p {
+    font-family: tahoma;
+    margin: 0.4cm 0cm;
+}
+.sect_menu1 a {
+    font-family: tahoma;
+    font-size: 0.3cm;
+    margin-top: 1cm;
+}
+.div_menu3 button {
+    height: 1.1cm;
+    width: 4.5cm;
+    margin-top: 2cm;
+    background-color: #FFBC0D;
+    border: 0;
+    border-radius: 0.1cm;
+    font-size: 0.4cm;
+    cursor: pointer;
+}
+.footer_menu {
+    display: flex;
+    justify-content: space-between;
+    font-family: tahoma;
+    padding-top: 2cm;
+    margin-bottom: 1cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.footer_menu li {
+    list-style: none;
+    padding-top: 0.4cm;
+
+}
+.footer_menu a {
+    text-decoration: none;
+    color: rgb(74, 71, 71);
+    font-size: 0.4cm;
+}
+.footer_menu h3 {
+    margin: 0.3cm 0cm;
+}
+.footer_menu a:hover {
+    text-decoration: underline;
+}
+.footer_logo {
+    display: flex;
+    justify-content: space-between;
+    margin: 0cm 1cm 0.4cm; 
+    padding-bottom: 1.6cm;
+    border-bottom: 1px solid black;
+}
+.footer_logo img {
+    width: 1cm;
+    padding-right: 0.5cm;
+}
+.emsfoot {
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5cm 0.6cm;
+    margin-bottom: 0.2cm;
+    font-family: tahoma;
+}
+.emsfoot1 ul {
+  display: flex;
+  gap: 0.5cm;
+}
+.emsfoot1 li {
+    list-style: none;
+}
+.emsfoot2 {
+    display: flex;
+}
+.emsfoot2 p {
+    width: 8cm;
+}
+.emsfoot3 {
+    margin-left: 0.6cm;
+    font-family: tahoma;
+    margin-bottom: 2cm;
+}
+.secti_menu {
+    margin: 2cm 1cm 0cm;
+}
+.secti_menu h1 {
+    text-align: center;
+    font-family: tahoma;
+    font-size: 1.4cm;
+    margin-bottom: 0.5cm;
+
+}
+.secti_menu img {
+    margin-bottom: 2cm;
+}
+.divclass {
+    margin-left: 1cm;
+    font-family: tahoma;
+}
+.divclass h1 {
+    margin: 0.5cm 0cm;
+}
+.emsdiv {
+    display: flex;
+    justify-content: space-between;
+    margin: 0cm 1cm;
+}
+.emsdiv div {
+    width: 50%;
+}
+.emcard {
+    padding-right: 0.5cm;
+    font-family: tahoma;
+}
+.emcard button {
+    height: 1.1cm;
+    width: 3.5cm;
+    margin-top: 0.7cm;
+    margin-bottom: 0.7cm;
+    background-color: #FFBC0D;
+    border: 0;
+    border-radius: 0.1cm;
+    font-size: 0.4cm;
+    cursor: pointer;
+}
+.emcard h3 {
+    margin: 0.55cm 0cm;
+    font-size: 0.7cm;
+}
